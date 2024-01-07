@@ -1,0 +1,5 @@
+.dropdown-item { font-size:28px; }
+.dropdown-menu { background:#7caeba; text-align:center; padding: 0px;}
+.dropdown { cursor: pointer; }
+a {color:#7caeba; text-decoration:none;}
+a:hover {color:#965116;}

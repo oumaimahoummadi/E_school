@@ -1,0 +1,21 @@
+@RelationIDSD 
+
+@Attribut Nom String
+@Attribut Prenom String
+@Attribut Age Numeric
+@Attribut Filiere String
+@Attribut Ville String
+@Attribut Moyenne Numeric
+@Attribut Genre {F,H} 
+@Attribut Validation{valide,non valide}
+
+@Data
+karima,skalli,20,IDSD,essaouira,12,F,valide
+ahmed,rmok,18,GI,marrackech,15,H,valide
+yassine,ben lmaty,19,GODT,safi,13,H,valide
+maryam,sifali,20,GI,tata,9,F,non valide
+hajar,taabi,19,GE,agadire,14,F,valide
+kamal,gamaly,18,ER,laayoun,13,H,valide
+aymane,chaby,20,TM,galmime,10,H,non valide
+salma,tilredda,19,ER,lgouira,12,F,valide
+saaid,salim,18,GI,marrackech,15,H,valide

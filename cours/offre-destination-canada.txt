@@ -1,0 +1,33 @@
+2174 – Programmeurs/programmeuses et développeurs/développeuses en médias interactifs
+Invest Ottawa : Mobile Application Developer ; Online Software Engineer – NHL ; Rendering Software Engineer – FIFA ;
+Rendering Software Engineer - UFC ; Sr Graphics Software Engineer – Bioware
+Metal Tech Alley : Product Design Lead ; Senior Full Stack Software Developer ; UX/UI Designer
+Rdée Nouveau-Brunswick : Développeur Front-End Senior
+Réseau de développement économique et d’employabilité de Terre-Neuve-et-Labrador : Embedded Software
+Developer ; Senior Software Developer
+
+2172 – Analystes de bases de données et administrateurs/administratrices de données
+Bold Commerce : Data Base Administrator
+Electronic Arts : Sr Data Scientist - EA SPORTS Security
+IGT : Data Ops Analyst
+Rdée Nouveau-Brunswick : Administrateur de base de données
+
+2281 – Techniciens/techniciennes de réseau informatique
+IGT : Integration Engineer ; Solutions Manager 3 ; System Admin I
+
+2171 – Analystes et consultants/consultantes en informatique
+Bold Commerce : Site Reliability Engineering
+Conseil de Développement Économique de la Nouvelle Écosse : Business Analyst ; Cloud Data Ops Engineer ;
+Cyber Security Analyst ; Security Architecture Assessment Analyst ; Tech Lead - Informatica Power Center
+Economic Development Winnipeg : Quality Assurance Tester
+IGT : Business Operations Analyst 3 ; Technical Writer IV
+Invest Ottawa : Product Owner
+Réseau de développement économique et d’employabilité de Terre-Neuve-et-Labrador : QA Analyst
+Société Économique de l’Ontario (SÉO) : BI Analyst ; Business Intelligence Analyst ; Project Manager
+
+NOM COMPLET : EL ARJE Youness
+CNP 2281 et 2175
+PROFIL EE en cours de création
+Bonjour, Je suis EL ARJE YOUNESS, 33 ans, marié et père d’une fille, Technicien en réseaux informatiques (CNP 2281) et Développeur Web (CNP 2175), Titulaire d'un Bachelor en Ingénierie des Systèmes informatiques et Logiciels et d’un diplôme de technicien spécialisé en réseaux informatiques, j’occupe depuis plus de 9 ans le poste d’administrateur système.
+Programmation avec: JavaScript; PHP; JAVA/J2EE; Visual Basic; AutoIt; Batch / Modélisation avec: UML / Manipulation de base de données sous : MySQL ; Microsoft SQL Server et Oracle
+Tâche exécutées : Développement et Maintien du portail internet de l’établissement (PHP/MySQL); Administration et Optimisation du système d’administration judiciaire S@J (JAVA/J2EE); Administration et Maintien du parc informatique de l’établissement ; 
