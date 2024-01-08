@@ -224,6 +224,9 @@ function infoUtilisateur($mail) {
 	
 	//VERIFICATION__________________________________
 	
+
+
+	
 // 	if(empty($first_name)){array_push($errors, "Fullname is requiered");}
 // 	if(empty($last_name)){array_push($errors, "entrer ton prenom");}
 // 	if(empty($email)){array_push($errors, "entrer ton mail");}
